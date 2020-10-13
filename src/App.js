@@ -31,11 +31,11 @@ class App extends Component {
     })
 
     device.on('incoming', connection => {
+      connection.accept();
+
       this.setState({
         status: "call incoming"
       });
-
-      connection.accept();
     });
 
     device.on('ready', device => {
@@ -100,7 +100,7 @@ class App extends Component {
 
   authorize(event) {
     event.preventDefault();
-    
+
     if (this.state.password == process.env.REACT_APP_SECRET) {
       this.setState({
         authorized: true,
