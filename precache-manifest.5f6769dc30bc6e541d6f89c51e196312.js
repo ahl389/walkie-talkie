@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a407f12d1ab9fd86fae30ca9250f1f7b",
+    "revision": "d5ea178e38e6f7af7dac710203ffee8f",
     "url": "/walkie-talkie/index.html"
   },
   {
-    "revision": "9d6ce46973511d1d5bc0",
+    "revision": "745c1a95cb927a9f6b41",
     "url": "/walkie-talkie/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/walkie-talkie/static/js/2.9398634f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d6ce46973511d1d5bc0",
-    "url": "/walkie-talkie/static/js/main.8de4bcde.chunk.js"
+    "revision": "745c1a95cb927a9f6b41",
+    "url": "/walkie-talkie/static/js/main.17f02dfc.chunk.js"
   },
   {
     "revision": "c0c02d96d0cc2f9588d1",
