@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/walkie-talkie/static/css/main.5f361e03.chunk.css",
+    "main.js": "/walkie-talkie/static/js/main.8de4bcde.chunk.js",
+    "main.js.map": "/walkie-talkie/static/js/main.8de4bcde.chunk.js.map",
+    "runtime-main.js": "/walkie-talkie/static/js/runtime-main.45ba3799.js",
+    "runtime-main.js.map": "/walkie-talkie/static/js/runtime-main.45ba3799.js.map",
+    "static/js/2.9398634f.chunk.js": "/walkie-talkie/static/js/2.9398634f.chunk.js",
+    "static/js/2.9398634f.chunk.js.map": "/walkie-talkie/static/js/2.9398634f.chunk.js.map",
+    "index.html": "/walkie-talkie/index.html",
+    "precache-manifest.30db47520dce002faf5fc7d5b09999f9.js": "/walkie-talkie/precache-manifest.30db47520dce002faf5fc7d5b09999f9.js",
+    "service-worker.js": "/walkie-talkie/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/walkie-talkie/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9398634f.chunk.js.LICENSE.txt": "/walkie-talkie/static/js/2.9398634f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45ba3799.js",
+    "static/js/2.9398634f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8de4bcde.chunk.js"
+  ]
+}
