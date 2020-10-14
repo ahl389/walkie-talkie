@@ -34,26 +34,26 @@ class App extends Component {
       connection.accept();
 
       this.setState({
-        status: connection.status
+        status: "call incoming"
       });
     });
 
     device.on('ready', device => {
       this.setState({
-        status: device.status,
+        status: "online",
         ready: true
       });
     });
 
     device.on('connect', device => {
       this.setState({
-        status: connection.status
+        status: "connected"
       });
     });
 
     device.on('disconnect', device => {
       this.setState({
-        status: connection.status
+        status: "disconnected"
       });
     });
   }
